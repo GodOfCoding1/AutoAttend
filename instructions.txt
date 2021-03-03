@@ -1,0 +1,10 @@
+run the program with autoattend.exe
+use autoattend_with_debugger.exe if u get bugs.
+
+1-Set up the platform used for classes
+2-Make a timetable
+3-load the timetable
+4-when u click load some promts will come just click ok to countine
+5- u have to click "Ok" on the message box ,the program starts only after u click ok.
+(you will know what i am talking about when u load the timetable)
+

@@ -1,0 +1,11 @@
+made by madhav
+there are a lot of bugs.
+i tried my best to make it user friendly but still a lot of issuses are there. (lazy)
+Try to follow the instructions carefuly, because program is not user friendly, a small mistake could result in a fatal bug
+if u encounter any bugs then delete all the files then reinstall.
+
+the program starts the class at the time u give when u create the timetable
+so if u have a class at 9:00 and load that timetable at 9:01 the program will not start the class at 9:00 becuse the time to start the class has passed
+always load the timetable at least 2 mintues before ur classes
+
+if u get the screen shown in issue its became ur emial has 2 factor verfication that doesnt allow bots to access it
